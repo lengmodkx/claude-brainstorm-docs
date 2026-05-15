@@ -4,7 +4,24 @@
       "Bash(git add:*)",
       "Bash(git reset:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(echo 🔍 执行文件类型检查...:*)",
+      "Bash(del:*)",
+      "Bash(python3:*)",
+      "Bash(cmd:*)",
+      "Bash(powershell:*)",
+      "Bash(mv projects/* brainstorm-docs/projects/)",
+      "Bash(mv topics/* brainstorm-docs/topics/)",
+      "Bash(mv 2026-*.md brainstorm-docs/)",
+      "Bash(rm -f nul)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "fetch",
+    "github",
+    "browser-server",
+    "postgresql",
+    "executeautomation-playwright-server",
+    "playwright-server"
+  ]
 }
